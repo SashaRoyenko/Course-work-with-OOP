@@ -1,0 +1,13 @@
+﻿  functions.cpp
+c:\users\sasha\desktop\кпі\ооп\курсова ооп\work\work\functions.cpp(131): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\sasha\desktop\кпі\ооп\курсова ооп\work\work\functions.cpp(8): error C2677: бинарный "+=": не найден глобальный оператор, принимающий тип "T" (или приемлемое преобразование отсутствует)
+          with
+          [
+              T=Discipline
+          ]
+  c:\users\sasha\desktop\кпі\ооп\курсова ооп\work\work\functions.cpp(47): note: выполняется компиляция ссылки на экземпляр шаблон функции "double GetAvarageLecture<Discipline,int>(T *,K)"
+          with
+          [
+              T=Discipline,
+              K=int
+          ]
